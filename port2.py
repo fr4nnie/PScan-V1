@@ -6,7 +6,7 @@ print(banner)
 print("Please enter an IPv4 , www, HTTP or a HTTPS address \n")
 
 # Defining a target if we have the the py and an address as arguements 
-# then translate hostname to IPv4 or just set it as a target
+# then translate hostname to IP or just set it as a target
 try:
     if len(sys.argv) == 2:                         
         if sys.argv[1].lower().startswith('https://'):   #remove the https://
