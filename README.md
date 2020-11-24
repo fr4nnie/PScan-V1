@@ -6,3 +6,5 @@ Please note, it can be considered a crime to port scan a network or system that 
 This should be run via command prompt from address of the saved py file with a target. 
 
 You are responsible for your own actions. 
+
+Based and developed further from the lesson by deepamanknp https://www.geeksforgeeks.org/port-scanner-using-python/?ref=lbp
