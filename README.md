@@ -7,4 +7,5 @@ This should be run via command prompt from address of the saved py file with a t
 
 You are responsible for your own actions. 
 
-Based and developed further from the lesson by deepamanknp https://www.geeksforgeeks.org/port-scanner-using-python/?ref=lbp
+Based and developed further from the lesson by deepamanknp 
+https://www.geeksforgeeks.org/port-scanner-using-python/?ref=lbp
